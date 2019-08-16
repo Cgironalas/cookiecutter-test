@@ -1,4 +1,4 @@
 {
-  myvar: hello,
-  var1: foo,
+  "myvar": "hello",
+  "var1": "foo"
 }
