@@ -1,1 +1,1 @@
-print ("{{ cookiecutter.var1 }}")
+print("{{ cookiecutter.var1 }}")
